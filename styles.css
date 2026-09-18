@@ -15,10 +15,15 @@ background: white;
 
 }
 
-.nav-links a {
+.nav-links ,ul{
     margin-left: 20px;
     text-decoration: none;
     color: #333;
+    display: flex;justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: white;
+
 }
 section{
     padding: 25px 30px;
@@ -27,7 +32,6 @@ section{
 img{
     width: 300px;
     height: auto;
-
 
 
 }
