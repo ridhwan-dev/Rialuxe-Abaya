@@ -1,27 +1,31 @@
 body{
 margin: 0;
-background-color: blueviolet;
-
+font-family: ariel,sans-serif;
+background: color #f8f1f4;
+color: #333;
 }
 .navbar{
 
 display: flex;
-padding: 10px 15px;
-align-items: center;
 justify-content: space-between;
-background-color: white;
+align-items: center;
+padding: 15px 30px;
+background: white;
+
+
 }
+
 .nav-links a {
-    margin-left: 25px;
+    margin-left: 20px;
     text-decoration: none;
     color: #333;
 }
 section{
-    padding: 7px 7px;
+    padding: 25px 30px;
 
 }
 img{
-    width: 100%;
+    width: 300px;
     height: auto;
 
 
