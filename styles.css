@@ -1,12 +1,12 @@
 body{
 margin: 0;
-background-color: darksalmon;
-color: darksalmon;
+background-color: blueviolet;
+
 }
 .navbar{
 
 display: flex;
-padding: 20px 50px;
+padding: 10px 15px;
 align-items: center;
 justify-content: space-between;
 background-color: white;
@@ -17,12 +17,13 @@ background-color: white;
     color: #333;
 }
 section{
-    padding: 40px 50px;
+    padding: 7px 7px;
 
 }
 img{
-    width: 300px;
-    border-radius: 10px;
-    
+    width: 100%;
+    height: auto;
+
+
 
 }
