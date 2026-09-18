@@ -1,0 +1,28 @@
+body{
+margin: 0;
+background-color: darksalmon;
+color: darksalmon;
+}
+.navbar{
+
+display: flex;
+padding: 20px 50px;
+align-items: center;
+justify-content: space-between;
+background-color: white;
+}
+.nav-links a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: #333;
+}
+section{
+    padding: 40px 50px;
+
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+    
+
+}
